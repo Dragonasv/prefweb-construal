@@ -331,22 +331,22 @@ breadcrumb,Concepto,modelo,marcos
 4 - CONSTRUAL - PVC / 4 HOJAS / CAJON VOLADO,PVV_4121,Modelo Cajon Volado 4 Hojas de PVC Construal,1
 4 - CONSTRUAL - PVC / 4 HOJAS / CAJON VOLADO,PVV_4200,Modelo Cajon Volado 4 Hojas de PVC Construal,1
 4 - CONSTRUAL - PVC / 4 HOJAS / CAJON VOLADO,PVV_4300,Modelo Cajon Volado 4 Hojas de PVC Construal,1
-4 - CONSTRUAL - PVC / BANDERAS / _APERTURA INTERIOR,PBN.1000,Modelo Bandera de PVC Construal,1
-4 - CONSTRUAL - PVC / BANDERAS / _APERTURA INTERIOR,PBN.1100,Modelo Bandera de PVC Construal,1
-4 - CONSTRUAL - PVC / BANDERAS / _APERTURA INTERIOR,PBN.1200,Modelo Bandera de PVC Construal,1
-4 - CONSTRUAL - PVC / BANDERAS / _APERTURA INTERIOR,PBN.2000,Modelo Bandera de PVC Construal,1
-4 - CONSTRUAL - PVC / BANDERAS / _APERTURA INTERIOR,PBN.2100,Modelo Bandera de PVC Construal,1
-4 - CONSTRUAL - PVC / BANDERAS / _APERTURA INTERIOR,PBN.2200,Modelo Bandera de PVC Construal,1
-4 - CONSTRUAL - PVC / BANDERAS / _APERTURA INTERIOR,PBN.5100,Modelo Bandera de PVC Construal,1
-4 - CONSTRUAL - PVC / BANDERAS / _APERTURA INTERIOR,PBN.5200,Modelo Bandera de PVC Construal,1
-4 - CONSTRUAL - PVC / BANDERAS / APERTURA EXTERIOR,PBE_1000,Modelo Bandera de PVC Construal,1
-4 - CONSTRUAL - PVC / BANDERAS / APERTURA EXTERIOR,PBE_2000,Modelo Bandera de PVC Construal,1
-4 - CONSTRUAL - PVC / BANDERAS / CAJON VOLADO,PBV.1000,Modelo Bandera Cajon Volado de PVC Construal,1
-4 - CONSTRUAL - PVC / BANDERAS / CAJON VOLADO,PBV.1100,Modelo Bandera Cajon Volado de PVC Construal,1
-4 - CONSTRUAL - PVC / BANDERAS / CAJON VOLADO,PBV.1200,Modelo Bandera Cajon Volado de PVC Construal,1
-4 - CONSTRUAL - PVC / BANDERAS / CAJON VOLADO,PBV.2000,Modelo Bandera Cajon Volado de PVC Construal,1
-4 - CONSTRUAL - PVC / BANDERAS / CAJON VOLADO,PBV.2100,Modelo Bandera Cajon Volado de PVC Construal,1
-4 - CONSTRUAL - PVC / BANDERAS / CAJON VOLADO,PBV.2200,Modelo Bandera Cajon Volado de PVC Construal,1
+4 - CONSTRUAL - PVC / BANDERAS / _APERTURA INTERIOR,PBN.1000,Modelo Bandera de PVC Construal,2
+4 - CONSTRUAL - PVC / BANDERAS / _APERTURA INTERIOR,PBN.1100,Modelo Bandera de PVC Construal,2
+4 - CONSTRUAL - PVC / BANDERAS / _APERTURA INTERIOR,PBN.1200,Modelo Bandera de PVC Construal,2
+4 - CONSTRUAL - PVC / BANDERAS / _APERTURA INTERIOR,PBN.2000,Modelo Bandera de PVC Construal,2
+4 - CONSTRUAL - PVC / BANDERAS / _APERTURA INTERIOR,PBN.2100,Modelo Bandera de PVC Construal,2
+4 - CONSTRUAL - PVC / BANDERAS / _APERTURA INTERIOR,PBN.2200,Modelo Bandera de PVC Construal,2
+4 - CONSTRUAL - PVC / BANDERAS / _APERTURA INTERIOR,PBN.5100,Modelo Bandera de PVC Construal,3
+4 - CONSTRUAL - PVC / BANDERAS / _APERTURA INTERIOR,PBN.5200,Modelo Bandera de PVC Construal,3
+4 - CONSTRUAL - PVC / BANDERAS / APERTURA EXTERIOR,PBE_1000,Modelo Bandera de PVC Construal,2
+4 - CONSTRUAL - PVC / BANDERAS / APERTURA EXTERIOR,PBE_2000,Modelo Bandera de PVC Construal,2
+4 - CONSTRUAL - PVC / BANDERAS / CAJON VOLADO,PBV.1000,Modelo Bandera Cajon Volado de PVC Construal,2
+4 - CONSTRUAL - PVC / BANDERAS / CAJON VOLADO,PBV.1100,Modelo Bandera Cajon Volado de PVC Construal,2
+4 - CONSTRUAL - PVC / BANDERAS / CAJON VOLADO,PBV.1200,Modelo Bandera Cajon Volado de PVC Construal,2
+4 - CONSTRUAL - PVC / BANDERAS / CAJON VOLADO,PBV.2000,Modelo Bandera Cajon Volado de PVC Construal,2
+4 - CONSTRUAL - PVC / BANDERAS / CAJON VOLADO,PBV.2100,Modelo Bandera Cajon Volado de PVC Construal,2
+4 - CONSTRUAL - PVC / BANDERAS / CAJON VOLADO,PBV.2200,Modelo Bandera Cajon Volado de PVC Construal,2
 4 - CONSTRUAL - PVC / CORREDERAS / 2 HOJAS,PCL_2000A,Corredera Lineal 2 Hojas de PVC Construal,1
 4 - CONSTRUAL - PVC / CORREDERAS / 2 HOJAS,PCL_2000B,Corredera Lineal 2 Hojas de PVC Construal,1
 4 - CONSTRUAL - PVC / CORREDERAS / 2 HOJAS,PCL_2000C,Corredera Lineal 2 Hojas de PVC Construal,1
@@ -438,3 +438,4 @@ breadcrumb,Concepto,modelo,marcos
 4 - CONSTRUAL - PVC / SMOOVIO / 1 MARCO / 2 PERSIANAS,SM1H1F_DCHA_2P,Corredera SMOOVIO Ventana una hoja y un fijo,1
 4 - CONSTRUAL - PVC / SMOOVIO / 1 MARCO / 2 PERSIANAS,SM1H1F_IZQ_2P,Corredera SMOOVIO Ventana una hoja y un fijo,1
 4 - CONSTRUAL - PVC / SMOOVIO / 1 MARCO / 2 PERSIANAS,SM2H2F_2P,Corredera SMOOVIO Ventana 2 Hojas y 2 Fijos,1
+
