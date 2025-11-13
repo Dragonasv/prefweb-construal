@@ -1,0 +1,11 @@
+{
+  "youtubeShorts": "https://www.youtube.com/@krisventx/shorts",
+  "templates": {
+    "Ventanas – Suministro + instalación": "Hola {{nombre}}\nTe adjunto el *presupuesto en PDF* de tus ventanas + instalación.\nSi quieres hacer algún cambio o tienes dudas, dímelo y lo ajusto sin problema.\nVídeos que ayudan a decidir:\n• Cómo es la ventana\n• Por qué tenemos el mejor precio de ventanas en España\n• Cómo instalamos paso a paso\n• Preguntas frecuentes\nCanal: {{canalYT}}\nSi te encaja, lo meto en fabricación enseguida.",
+    "Ventanas – Solo suministro": "Hola {{nombre}}\nTe adjunto el *presupuesto en PDF* de *ventanas (solo suministro)*.\nIncluye perfiles, herrajes y vidrio según indicaciones. Si necesitas cambios (medidas, aperturas, color, vidrio, mosquiteras), dímelo y lo ajusto.\nMientras lo revisas, te dejo vídeos útiles:\n• Cómo es la ventana\n• Por qué tenemos el mejor precio de ventanas en España\n• Cómo instalamos (si lo necesitas en el futuro)\n• Preguntas frecuentes\nCanal: {{canalYT}}",
+    "Toldos": "Hola {{nombre}}\nTe paso el *presupuesto en PDF* del toldo.\nIncluye lona exterior preparada para sol y lluvia, motor/automatismos si aplica, y garantías.\n¿Agendamos medición para ver anclajes y altura exacta?\nCanal: {{canalYT}}",
+    "Cortina de cristal": "Hola {{nombre}}\nTe adjunto el *presupuesto en PDF* de la *cortina de cristal* (cerramiento sin perfiles verticales).\nPuedo pasarte vídeos de funcionamiento, limpieza, seguridad al viento y drenajes.\nCanal: {{canalYT}}\n¿Quieres que tomemos medidas finales para confirmación?",
+    "Reformas": "Hola {{nombre}}\nTe envío el *presupuesto en PDF* de la reforma.\nSi hay partidas que quieras separar, priorizar o ajustar al presupuesto, dímelo y te hago una versión revisada.\nVídeos y FAQs: {{canalYT}}"
+  }
+}
+
