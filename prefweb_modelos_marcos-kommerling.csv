@@ -1,0 +1,42 @@
+breadcrumb,Concepto,modelo,marcos,marcos-orientacion
+4 - CONSTRUAL PVC / _FIJOS,PMF_0000,Modelo Fijo de PVC Construal,1,vertical
+4 - CONSTRUAL PVC / _FIJOS,PMF_0010,Modelo Fijo de PVC Construal,1,vertical
+4 - CONSTRUAL PVC / _FIJOS,PMF_0100,Modelo Fijo de PVC Construal,1,vertical
+4 - CONSTRUAL PVC / 1 HOJA,PVB_1000,Modelo 1 Hoja de PVC Construal,1,vertical
+4 - CONSTRUAL PVC / 1 HOJA,PVB_1011,Modelo de 1 Hoja con Fijo Inferior de PVC Construal,1,vertical
+4 - CONSTRUAL PVC / 2 HOJAS,PVB_2000,Modelo 2 Hojas de PVC Construal,1,vertical
+4 - CONSTRUAL PVC / 2 HOJAS,PVB_2010,Modelo de 2 Hojas con Fijo Inferior de PVC Construal,1,vertical
+4 - CONSTRUAL PVC / 3 HOJAS,PVB_3100,Modelo 3 Hojas de PVC Construal,1,vertical
+4 - CONSTRUAL PVC / 3 HOJAS,PVB_3110,Modelo 3 Hojas con Fijo Inferior de PVC Construal,1,vertical
+4 - CONSTRUAL PVC / 4 HOJAS,PVB_4100,Modelo 4 Hojas de PVC Construal,1,vertical
+4 - CONSTRUAL PVC / 4 HOJAS,PVB_4210,Modelo de 4 Hojas con Fijo Inferior de PVC Construal,1,vertical
+4 - CONSTRUAL PVC / BANDERAS,PBN_1000,Modelo Bandera de PVC Construal,2,vertical
+4 - CONSTRUAL PVC / BANDERAS,PBN_5200,Modelo Bandera de PVC Construal,3,vertical
+4 - CONSTRUAL PVC / CORREDERAS / 2 HOJAS,PCL_2000A,Corredera Lineal 2 Hojas de PVC Construal,1,vertical
+4 - CONSTRUAL PVC / CORREDERAS / 2 HOJAS,PCL_2000B,Corredera Lineal 2 Hojas de PVC Construal,1,vertical
+4 - CONSTRUAL PVC / CORREDERAS / 2 HOJAS,PCL_2000C,Corredera Lineal 2 Hojas de PVC Construal,1,vertical
+4 - CONSTRUAL PVC / CORREDERAS / 2 HOJAS,PCL_2000D,Corredera Lineal 2 Hojas de PVC Construal,1,vertical
+4 - CONSTRUAL PVC / CORREDERAS / 2 HOJAS,PCL_2000E,Corredera Lineal 2 Hojas de PVC Construal,1,vertical
+4 - CONSTRUAL PVC / CORREDERAS / 2 HOJAS,PCL_2000F,Corredera Lineal 2 Hojas de PVC Construal,1,vertical
+4 - CONSTRUAL PVC / CORREDERAS / 3 HOJAS,PCL_3000A,Corredera Lineal 3 Hojas de PVC Construal,1,vertical
+4 - CONSTRUAL PVC / CORREDERAS / 3 HOJAS MARCO TRICARRIL,PCT_3000A,Corredera Lineal Tricarril 3 Hojas de PVC Construal,1,vertical
+4 - CONSTRUAL PVC / CORREDERAS / 4 HOJAS,PCL_4000A,Corredera Lineal 4 Hojas con cierre central de PVC Construal,1,vertical
+4 - CONSTRUAL PVC / CORREDERAS / 4 HOJAS,PCL_4001A,Corredera Lineal 4 Hojas de PVC Construal,1,vertical
+4 - CONSTRUAL PVC / CORREDERAS / 6 HOJAS,PCT_6000,Corredera Lineal Tricarril 6 Hojas de PVC Construal,1,vertical
+4 - CONSTRUAL PVC / ELEVABLES,EL1H1F,Elevable 1 hoja movil y 1 Hoja fija,2,vertical
+4 - CONSTRUAL PVC / ELEVABLES,EL2H,Elevable 2 hojas moviles,2,vertical
+4 - CONSTRUAL PVC / ELEVABLES,ELV4HC,Elevable Esquema C 2 Hojas Fijas 2 Hojas Moviles,2,vertical
+4 - CONSTRUAL PVC / OSCILOPARALELAS / 1 MARCO,POP_1000,Osciloparalela 1 Hoja de PVC Construal,1,vertical
+4 - CONSTRUAL PVC / OSCILOPARALELAS / 1 MARCO,POP_1100,Osciloparalela 1 Hoja de PVC Construal,1,vertical
+4 - CONSTRUAL PVC / OSCILOPARALELAS / 1 MARCO,POP_2000,Osciloparalela 2 Hojas Esquema C de PVC Construal,1,vertical
+4 - CONSTRUAL PVC / OSCILOPARALELAS / 1 MARCO,POP_2100,Osciloparalela 1 Hoja de PVC Construal,1,vertical
+4 - CONSTRUAL PVC / OSCILOPARALELAS / 1 MARCO,POP_2200,Osciloparalela 2 Hojas Esquema C de PVC Construal,1,vertical
+4 - CONSTRUAL PVC / OSCILOPARALELAS / 2 MARCOS,POP_21001,Osciloparalela 1 Hoja de PVC Construal,2,vertical
+4 - CONSTRUAL PVC / OSCILOPARALELAS / 2 MARCOS,POP_21002,Osciloparalela 1 Hoja de PVC Construal,2,vertical
+4 - CONSTRUAL PVC / OSCILOPARALELAS / 3 MARCOS,POP_3000,Osciloparalela 2 Hojas Esquema C de PVC Construal,3,vertical
+4 - CONSTRUAL PVC / PREMISLIDE,PREMISLIDE,,2,vertical
+4 - CONSTRUAL PVC / UNIONES,2 BASTIDORES HORIZONTAL,,2,horizontal
+4 - CONSTRUAL PVC / UNIONES,2 BASTIDORES VERTICAL,,2,vertical
+4 - CONSTRUAL PVC / UNIONES,3 BASTIDORES HORIZONTAL,,3,horizontal
+4 - CONSTRUAL PVC / UNIONES,3 BASTIDORES VERTICAL,,3,vertical
+4 - CONSTRUAL PVC / UNIONES,4 BASTIDORES VERTICAL,,4,vertical
