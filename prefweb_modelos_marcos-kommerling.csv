@@ -77,3 +77,148 @@ breadcrumb,Concepto,modelo,marcos,marcos-orientacion
 4 - CONSTRUAL PVC / OSCILOPARALELAS / 1 MARCO,POP_2101,Osciloparalela 1 Hoja de PVC Construal,1,vertical
 4 - CONSTRUAL PVC / OSCILOPARALELAS / 2 MARCOS,POP_21011,Osciloparalela 1 Hoja de PVC Construal,2,vertical
 4 - CONSTRUAL PVC / OSCILOPARALELAS / 2 MARCOS,POP_21012,Osciloparalela 1 Hoja de PVC Construal,2,vertical
+5 - CONSTRUAL / ALUMINIO_FIJOS RPT,ARPT_0000,Modelo Fijo de Aluminio RPT Construal,1,vertical
+5 - CONSTRUAL / ALUMINIO_FIJOS RPT,ARPT_0010,Modelo Fijo de Aluminio RPT Construal,1,vertical
+5 - CONSTRUAL / ALUMINIO_FIJOS RPT,ARPT_0100,Modelo Fijo de Aluminio RPT Construal,1,vertical
+5 - CONSTRUAL / ALUMINIO_FIJOS RPT / AP EXTERIOR,ARPT_0000Ext,Modelo Fijo de Aluminio RPT Construal Apertura Exterior,1,vertical
+5 - CONSTRUAL / _VENTANA 1 HOJA RPT,ARPT_1000,Modelo de 1 Hoja de Aluminio RPT Construal,1,vertical
+5 - CONSTRUAL / _VENTANA 1 HOJA RPT,ARPT_1010,Modelo de 1 Hoja de Aluminio RPT Construal,1,vertical
+5 - CONSTRUAL / _VENTANA 1 HOJA RPT / AP EXTERIOR,ARPT_1000Ext,Modelo de 1 Hoja de Aluminio RPT Construal Apertura Exterior,1,vertical
+5 - CONSTRUAL / _VENTANA 1 HOJA RPT ABATIBLE,ARPT_1000.A,Modelo de 1 Hoja Abatible de Aluminio RPT Construal,1,vertical
+5 - CONSTRUAL / _VENTANA 1 HOJA RPT ABATIBLE,ARPT_1010.A,Modelo de 1 Hoja Abatible de Aluminio RPT Construal,1,vertical
+5 - CONSTRUAL / _VENTANA 1 HOJA RPT ABATIBLE,ARPT_1100.A,Modelo de 1 Hoja de Aluminio RPT Construal,1,vertical
+5 - CONSTRUAL / _VENTANA 2 HOJAS RPT,ARPT_2000,Modelo de 2 Hojas de Aluminio RPT Construal,1,vertical
+5 - CONSTRUAL / _VENTANA 2 HOJAS RPT,ARPT_2010,Modelo de 2 Hojas de Aluminio RPT Construal,1,vertical
+5 - CONSTRUAL / _VENTANA 2 HOJAS RPT / AP EXTERIOR,ARPT_2000Ext,Modelo de 2 Hojas de Aluminio RPT Construal Ap. Exterior,1,vertical
+5 - CONSTRUAL / _VENTANA 3 HOJAS RPT,ARPT_3100,Modelo de 3 Hojas de Aluminio RPT Construal,1,vertical
+5 - CONSTRUAL / _VENTANA 3 HOJAS RPT,ARPT_3120,Modelo de 3 Hojas de Aluminio RPT Construal,1,vertical
+5 - CONSTRUAL / _VENTANA 4 HOJAS RPT,ARPT_4100,Modelo de 4 Hojas de Aluminio RPT Construal,1,vertical
+5 - CONSTRUAL / _VENTANA 4 HOJAS RPT,ARPT_4120,Modelo de 4 Hojas de Aluminio RPT Construal,1,vertical
+5 - CONSTRUAL / BANDERAS,ABN.1000,Modelo Bandera de Aluminio Construal,2,vertical
+5 - CONSTRUAL / BANDERAS,ABN.2000,Modelo Bandera de Aluminio Construal,2,vertical
+5 - CONSTRUAL / BANDERAS / CAJON VOLADO,ABN.1001,Modelo Bandera de Aluminio Construal,2,vertical
+5 - CONSTRUAL / BANDERAS / CAJON VOLADO,ABN.2001,Modelo Bandera de Aluminio Construal,2,vertical
+5 - CONSTRUAL / BANDERAS / REGISTRO CATALAN,ABN.1000RC,Modelo Bandera de Aluminio Construal,2,vertical
+5 - CONSTRUAL / BANDERAS / REGISTRO CATALAN,ABN.2000RC,Modelo Bandera de Aluminio Construal,2,vertical
+5 - CONSTRUAL / CORREDERAS,ACL_2000,Corredera de Aluminio RPT Construal,1,vertical
+5 - CONSTRUAL / CORREDERAS,ACL_2001,Corredera de Aluminio RPT Construal,1,vertical
+5 - CONSTRUAL / CORREDERAS,ACL_2002,Corredera de Aluminio RPT Construal,1,vertical
+5 - CONSTRUAL / CORREDERAS,ACL_2003,Corredera de Aluminio RPT Construal,1,vertical
+5 - CONSTRUAL / CORREDERAS,ACL_2004,Corredera de Aluminio RPT Construal,1,vertical
+5 - CONSTRUAL / CORREDERAS,ACL_2005,Corredera de Aluminio RPT Construal,1,vertical
+5 - CONSTRUAL / CORREDERAS,ACL_2006,Corredera de Aluminio RPT Construal,1,vertical
+5 - CONSTRUAL / CORREDERAS,ACL_2006.1,Corredera de Aluminio RPT Construal,1,vertical
+5 - CONSTRUAL / CORREDERAS,ACL_3000,Corredera Tricarril de Aluminio RPT Construal,1,vertical
+5 - CONSTRUAL / CORREDERAS,ACL_3001,Corredera Tricarril de Aluminio RPT Construal,1,vertical
+5 - CONSTRUAL / CORREDERAS,ACL_3006,Corredera Tricarril de Aluminio RPT Construal,1,vertical
+5 - CONSTRUAL / CORREDERAS / GANDALAGE,ACG_1061,Corredera de Aluminio RPT Galandage Construal,1,vertical
+5 - CONSTRUAL / CORREDERAS / GANDALAGE,ACG_2061,Corredera de Aluminio RPT Galandage Construal,1,vertical
+5 - CONSTRUAL / ELEVABLES,AEV_TIPO_01,Elevable Monorail de Aluminio Construal,1,vertical
+5 - CONSTRUAL / ELEVABLES,AEV_TIPO_01_1,Elevable Monorail de Aluminio Construal,1,vertical
+5 - CONSTRUAL / ELEVABLES,AEV_TIPO_02,Elevable de Aluminio Construal,1,vertical
+5 - CONSTRUAL / ELEVABLES,AEV_TIPO_02_1,Elevable de Aluminio Construal,1,vertical
+5 - CONSTRUAL / ELEVABLES,AEV_TIPO_03,Elevable Tricarril de Aluminio Construal,1,vertical
+5 - CONSTRUAL / ELEVABLES,AEV_TIPO_03_1,Elevable Tricarril de Aluminio Construal,1,vertical
+5 - CONSTRUAL / ELEVABLES,AEV_TIPO_03_2,Elevable Tricarril de Aluminio Construal,1,vertical
+5 - CONSTRUAL / ELEVABLES,AEV_TIPO_04,Elevable Galandage de Aluminio Construal,1,vertical
+5 - CONSTRUAL / ELEVABLES,AEV_TIPO_04_1,Elevable Galandage de Aluminio Construal,1,vertical
+5 - CONSTRUAL / OSCILOPARALELAS,AOP_1000,Osciloparalela 1 Hoja de Aluminio Construal,1,vertical
+5 - CONSTRUAL / OSCILOPARALELAS,AOP_1100,Osciloparalela 1 Hoja de Aluminio Construal,1,vertical
+5 - CONSTRUAL / OSCILOPARALELAS,AOP_2100,Osciloparalela 1+1 Hoja de Aluminio Construal,1,vertical
+5 - CONSTRUAL / PUERTAS / .FIJOS,APF_0000,Fijo de Aluminio Construal,1,vertical
+5 - CONSTRUAL / PUERTAS / _APERTURA INTERIOR,APC_1000,Puerta 1 Hoja de Aluminio Construal,1,vertical
+5 - CONSTRUAL / PUERTAS / _APERTURA INTERIOR,APC_1010,Puerta 1 Hoja de Aluminio Construal,1,vertical
+5 - CONSTRUAL / PUERTAS / _APERTURA INTERIOR,APC_1100,Puerta 1 Hoja de Aluminio Construal,1,vertical
+5 - CONSTRUAL / PUERTAS / _APERTURA INTERIOR,APC_1110,Puerta 1 Hoja de Aluminio Construal,1,vertical
+5 - CONSTRUAL / PUERTAS / _APERTURA INTERIOR,APC_1120,Puerta 1 Hoja de Aluminio Construal,1,vertical
+5 - CONSTRUAL / PUERTAS / _APERTURA INTERIOR,APC_1200,Puerta 1 Hoja de Aluminio Construal,1,vertical
+5 - CONSTRUAL / PUERTAS / _APERTURA INTERIOR,APC_1230,Puerta 1 Hoja de Aluminio Construal,1,vertical
+5 - CONSTRUAL / PUERTAS / _APERTURA INTERIOR,APC_2000,Puerta 2 Hojas de Aluminio Construal,1,vertical
+5 - CONSTRUAL / PUERTAS / _APERTURA INTERIOR,APC_2010,Puerta 2 Hojas de Aluminio Construal,1,vertical
+5 - CONSTRUAL / PUERTAS / _APERTURA INTERIOR,APC_2100,Puerta 2 Hojas de Aluminio Construal,1,vertical
+5 - CONSTRUAL / PUERTAS / _APERTURA INTERIOR,APC_2110,Puerta 1 Hoja de Aluminio Construal,1,vertical
+5 - CONSTRUAL / PUERTAS / _APERTURA INTERIOR,APC_2120,Puerta 2 Hojas de Aluminio Construal,1,vertical
+5 - CONSTRUAL / PUERTAS / _APERTURA INTERIOR,APC_2200,Puerta 2 Hojas de Aluminio Construal,1,vertical
+5 - CONSTRUAL / PUERTAS / _APERTURA INTERIOR,APC_2230,Puerta 2 Hojas de Aluminio Construal,1,vertical
+5 - CONSTRUAL / PUERTAS / APERTURA EXTERIOR,APE_1000,Puerta 1 Hoja de Aluminio Construal,1,vertical
+5 - CONSTRUAL / PUERTAS / APERTURA EXTERIOR,APE_1010,Puerta 1 Hoja de Aluminio Construal,1,vertical
+5 - CONSTRUAL / PUERTAS / APERTURA EXTERIOR,APE_1100,Puerta 1 Hoja de Aluminio Construal,1,vertical
+5 - CONSTRUAL / PUERTAS / APERTURA EXTERIOR,APE_1110,Puerta 1 Hoja de Aluminio Construal,1,vertical
+5 - CONSTRUAL / PUERTAS / APERTURA EXTERIOR,APE_1120,Puerta 1 Hoja de Aluminio Construal,1,vertical
+5 - CONSTRUAL / PUERTAS / APERTURA EXTERIOR,APE_1200,Puerta 1 Hoja de Aluminio Construal,1,vertical
+5 - CONSTRUAL / PUERTAS / APERTURA EXTERIOR,APE_1230,Puerta 2 Hojas de Aluminio Construal,1,vertical
+5 - CONSTRUAL / PUERTAS / APERTURA EXTERIOR,APE_2000,Puerta 2 Hojas de Aluminio Construal,1,vertical
+5 - CONSTRUAL / PUERTAS / APERTURA EXTERIOR,APE_2010,Puerta 2 Hojas de Aluminio Construal,1,vertical
+5 - CONSTRUAL / PUERTAS / APERTURA EXTERIOR,APE_2100,Puerta 2 Hojas de Aluminio Construal,1,vertical
+5 - CONSTRUAL / PUERTAS / APERTURA EXTERIOR,APE_2110,Puerta 2 Hojas de Aluminio Construal,1,vertical
+5 - CONSTRUAL / PUERTAS / APERTURA EXTERIOR,APE_2120,Puerta 2 Hojas de Aluminio Construal,1,vertical
+5 - CONSTRUAL / PUERTAS / APERTURA EXTERIOR,APE_2200,Puerta 2 Hojas de Aluminio Construal,1,vertical
+5 - CONSTRUAL / PUERTAS / APERTURA EXTERIOR,APE_2230,Puerta 2 Hojas de Aluminio Construal,1,vertical
+5 - CONSTRUAL / PUERTAS / COMPOSICIONES,APC_1+1,Puerta de Aluminio Construal (Composición),2,vertical
+5 - CONSTRUAL / PUERTAS / COMPOSICIONES,APC_1+1+1,Puerta de Aluminio Construal (Composición),3,vertical
+5 - CONSTRUAL / PUERTAS / VAIVEN,APV_2000,Puerta de 2 Hojas Apertura Vaiven de Aluminio Construal,1,vertical
+5 - CONSTRUAL / SERIE 40 mm / _ARMARIOS,ARM_0000,Modelo de Aluminio SIN RPT Construal,1,vertical
+5 - CONSTRUAL / SERIE 40 mm / _ARMARIOS,ARM_1000,Modelo de Aluminio SIN RPT Construal,1,vertical
+5 - CONSTRUAL / SERIE 40 mm / _ARMARIOS,ARM_2000,Modelo de Aluminio SIN RPT Construal,1,vertical
+5 - CONSTRUAL / SERIE 40 mm / _ARMARIOS,ARM_2100,Modelo de Aluminio SIN RPT Construal,1,vertical
+5 - CONSTRUAL / SERIE 40 mm / _FIJOS,A40.0000,Modelo Fijo de Aluminio SIN RPT Construal,1,vertical
+5 - CONSTRUAL / SERIE 40 mm / _FIJOS,A40.0010,Modelo Fijo de Aluminio SIN RPT Construal,1,vertical
+5 - CONSTRUAL / SERIE 40 mm / _FIJOS,A40.0100,Modelo Fijo de Aluminio SIN RPT Construal,1,vertical
+5 - CONSTRUAL / SERIE 40 mm / _FIJOS / APERTURA EXTERIOR,A40.0000Ext,Modelo Fijo de Aluminio SIN RPT Construal (AP Ext),1,vertical
+5 - CONSTRUAL / SERIE 40 mm / _VENTANAS 1 HOJA,A40.1000,Ventana de 1 hoja de Aluminio SIN RPT Construal,1,vertical
+5 - CONSTRUAL / SERIE 40 mm / _VENTANAS 1 HOJA,A40.1010,Ventana de 1 hoja de Aluminio SIN RPT Construal,1,vertical
+5 - CONSTRUAL / SERIE 40 mm / _VENTANAS 1 HOJA / APERTURA EXTERIOR,A40.1000E,Ventana de 1 hoja Ap Exterior de Aluminio SIN RPT Construal,1,vertical
+5 - CONSTRUAL / SERIE 40 mm / _VENTANAS 1 HOJA ABATIBLE,A40.1001,Ventana de 1 hoja de Aluminio SIN RPT Construal,1,vertical
+5 - CONSTRUAL / SERIE 40 mm / _VENTANAS 1 HOJA ABATIBLE,A40.1011,Ventana de 1 hoja de Aluminio SIN RPT Construal,1,vertical
+5 - CONSTRUAL / SERIE 40 mm / _VENTANAS 1 HOJA ABATIBLE,A40.1101,Ventana de 1 hoja de Aluminio SIN RPT Construal,1,vertical
+5 - CONSTRUAL / SERIE 40 mm / _VENTANAS 2 HOJAS,A40.2000,Ventana de 2 hojas de Aluminio SIN RPT Construal,1,vertical
+5 - CONSTRUAL / SERIE 40 mm / _VENTANAS 2 HOJAS,A40.2010,Ventana de 2 hojas de Aluminio SIN RPT Construal,1,vertical
+5 - CONSTRUAL / SERIE 40 mm / 5 - CONSTRUAL / SERIE 40 mm / _VENTANAS 2 HOJAS / APERTURA EXTERIOR,A40.2000E,Ventana de 2 hojas Ap Exterior de Aluminio SIN RPT Construal,1,vertical
+5 - CONSTRUAL / SERIE 40 mm / _VENTANAS DE 3 HOJAS,A40.3100,Ventana de 3 hojas de Aluminio SIN RPT Construal,1,vertical
+5 - CONSTRUAL / SERIE 40 mm / _VENTANAS DE 3 HOJAS,A40.3120,Ventana de 3 hojas de Aluminio SIN RPT Construal,1,vertical
+5 - CONSTRUAL / SERIE 40 mm / _VENTANAS DE 4 HOJAS,A40.4100,Ventana de 4 hojas de Aluminio SIN RPT Construal,1,vertical
+5 - CONSTRUAL / SERIE 40 mm / _VENTANAS DE 4 HOJAS,A40.4120,Ventana de 4 hojas de Aluminio SIN RPT Construal,1,vertical
+5 - CONSTRUAL / SERIE 40 mm / PUERTAS,A40_EP1000,Puerta de Aluminio SIN RPT Construal Ap Exterior,1,vertical
+5 - CONSTRUAL / SERIE 40 mm / PUERTAS,A40_EP2000,Puerta de Aluminio SIN RPT Construal Ap Exterior,1,vertical
+5 - CONSTRUAL / SERIE 40 mm / PUERTAS,A40_P1000,Puerta de Aluminio SIN RPT Construal,1,vertical
+5 - CONSTRUAL / SERIE 40 mm / PUERTAS,A40_P2000,Puerta de Aluminio SIN RPT Construal,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / _FIJOS,ALU_Mallorquina FIJA,Mallorquina Fija,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / _FIJOS,ALU_Mallorquina FIJA _1T,Mallorquina Fija,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / _FIJOS,ALU_Mallorquina FIJA _2T,Mallorquina Fija,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / _FIJOS,ALU_Mallorquina FIJA _3T,Mallorquina Fija,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / _FIJOS,ALU_Mallorquina FIJA _4T,Mallorquina Fija,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / _FIJOS,ALU_Mallorquina FIJA + 1T,Mallorquina Fija,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / _FIJOS,ALU_Mallorquina FIJA + 2T,Mallorquina Fija,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / 1 HOJA,ALU_Mallorquina 1H,Mallorquina de 1 Hoja,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / 1 HOJA,ALU_Mallorquina 1H + 1T,Mallorquina de 1 Hoja con 1 Travesaño Horizontal,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / 1 HOJA,ALU_Mallorquina 1H + 2T,Mallorquina de 1 Hoja con 2 Travesaños Horizontales,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / 1 HOJA CORREDERA,Mallorquina CORREDERA 1H,Mallorquina de 1 Hoja Corredera,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / 1 HOJA CORREDERA,Mallorquina CORREDERA 1P,Mallorquina de 1 Hoja Corredera Puerta,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / 2 HOJAS,ALU_Mallorquina 2H,Mallorquina de 2 Hojas,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / 2 HOJAS,ALU_Mallorquina 2H + 1T,Mallorquina de 2 Hojas con Travesaños Horizontales,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / 2 HOJAS,ALU_Mallorquina 2H + 1T.1,Mallorquina de 2 Hojas con Travesaños Horizontales,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / 2 HOJAS,ALU_Mallorquina 2H + 2T,Mallorquina de 2 Hojas con 2 Travesaños Horizontales,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / 2 HOJAS,ALU_Mallorquina 2H.1,Mallorquina de 2 Hojas,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / 2 HOJAS,ALU_Mallorquina 2H+2T.1,Mallorquina de 2 Hojas con 2 Travesaños Horizontales,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / 2 HOJAS CORREDERAS,Mallorquina CORREDERA 2H,Mallorquina de 2 Hojas Corredera,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / 2 HOJAS CORREDERAS,Mallorquina CORREDERA 2P,Mallorquina de 2 Hojas Corredera Puerta,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / 2 HOJAS CORREDERAS,Mallorquina CORREDERA EM,Mallorquina de 2 Hojas Corredera Entre Muros,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / 2 HOJAS PLEGABLES,ALU_Mallorquina 2H_E220,Mallorquina de 2 Hojas Plegables,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / 2 HOJAS PLEGABLES,ALU_Mallorquina 2HT_E220,Mallorquina de 2 Hojas Plegables,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / 3 HOJAS,ALU_Mallorquina 3H,Mallorquina de 3 Hojas,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / 3 HOJAS,ALU_Mallorquina 3H + 1T,Mallorquina de 3 Hojas con Travesaños,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / 3 HOJAS,ALU_Mallorquina 3H + 2T,Mallorquina de 3 Hojas con 2 Travesaños Horizontales,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / 4 HOJAS,ALU_Mallorquina 4H,Mallorquina de 4 Hojas,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / 4 HOJAS,ALU_Mallorquina 4H + 1T,Mallorquina de 4 Hojas con 1 Travesaño Horizontal,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / 4 HOJAS,ALU_Mallorquina 4H + 2T,Mallorquina de 4 Hojas con 2 Travesaños Horizontales,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / 4 HOJAS PLEGABLES,ALU_Mallorquina 4H_E422,Mallorquina de 4 Hojas Plegables,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / 4 HOJAS PLEGABLES,ALU_Mallorquina 4H_E440,Mallorquina de 4 Hojas Plegables,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / 4 HOJAS PLEGABLES,ALU_Mallorquina 4HT_E422,Mallorquina de 4 Hojas Plegables,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / 4 HOJAS PLEGABLES,ALU_Mallorquina 4HT_E440,Mallorquina de 4 Hojas Plegables,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / 3 HOJAS PLEGABLES,ALU_Mallorquina 3H_E330,Mallorquina de 3 Hojas Plegables,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / 3 HOJAS PLEGABLES,ALU_Mallorquina 3HT_E330,Mallorquina de 3 Hojas Plegables,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / 5 HOJAS PLEGABLES,ALU_Mallorquina 5H_E550,Mallorquina de 5 Hojas Plegables,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / 5 HOJAS PLEGABLES,ALU_Mallorquina 5HT_E550,Mallorquina de 5 Hojas Plegables,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / 6 HOJAS PLEGABLES,ALU_Mallorquina 6H_E633,Mallorquina de 6 Hojas Plegables,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / 6 HOJAS PLEGABLES,ALU_Mallorquina 6HT_E633,Mallorquina de 6 Hojas Plegables,1,vertical
+5 - CONSTRUAL / MALLORQUINAS / 8 HOJAS,ALU_Mallorquina 8H,Mallorquina de 8 Hojas,1,vertical
